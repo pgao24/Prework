@@ -30,7 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 
 
-https://user-images.githubusercontent.com/88458910/132143463-db5c56b5-0a10-4be2-a807-68fa081ff9cd.mov
+![Prework](https://user-images.githubusercontent.com/88458910/132143513-78fcf0e4-64c2-41a5-98c0-888f3c81a9b0.gif)
+
 
 
 
