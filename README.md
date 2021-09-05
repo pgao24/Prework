@@ -28,7 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Prework](https://user-images.githubusercontent.com/88458910/132112036-3332512b-737d-41a7-83b7-dbe9b74f8597.gif)
+
+
+https://user-images.githubusercontent.com/88458910/132143463-db5c56b5-0a10-4be2-a807-68fa081ff9cd.mov
+
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
