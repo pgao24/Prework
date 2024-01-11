@@ -37,9 +37,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-The code provided is bery straightforward and easy to understand. I tried to add a slider to the program but can't really figure out how to do that. Instead I figured how to put a reset button using clear().
 
 ## License
 
